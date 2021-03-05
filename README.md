@@ -1,1 +1,1 @@
-# my-movies-app
+# my-products-app
