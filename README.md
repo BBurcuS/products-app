@@ -1,1 +1,1 @@
-# my-products-app
+# products-app
